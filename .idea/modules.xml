@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BrushUpOnJava.iml" filepath="$PROJECT_DIR$/BrushUpOnJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java.Intermediate/java.Intermediate.iml" filepath="$PROJECT_DIR$/java.Intermediate/java.Intermediate.iml" />
       <module fileurl="file://$PROJECT_DIR$/java.basic/java.basic.iml" filepath="$PROJECT_DIR$/java.basic/java.basic.iml" />
     </modules>
   </component>
